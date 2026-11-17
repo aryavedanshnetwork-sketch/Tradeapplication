@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Groww Lock</string>
+    <string name="accessibility_description">Detects when the Groww app opens. If you already used your 1 buy order today, it shows a Limit reached screen. It does not read your screen content.</string>
+</resources>
